@@ -8,4 +8,4 @@ I build small, useful tools that turn a market insight into something testable: 
 - [voice-router](https://github.com/deepanshupal/voice-router) - one OpenAI-compatible API for STT, TTS, and LLM providers
 - [compute.cafe](https://www.compute.cafe/) - a live GPU rental pricing index
 
-Also contributing fixes to the agent, voice AI, and data tools I use - PostHog, LiveKit, LangChain, and Pipecat.
+Also contributing fixes to the agent, voice AI, and data tools I use - PostHog, LiveKit, LangChain, Pipecat, etc.
