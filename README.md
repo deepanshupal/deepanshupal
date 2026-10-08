@@ -9,4 +9,4 @@ I build small, useful tools that turn a market insight into something testable: 
 - [am-i-cited](https://github.com/DeepanshuPal/am-i-cited) - open-source AEO and LLM visibility tracking
 - [compute.cafe](https://www.compute.cafe/) - a live GPU rental pricing index
 
-Also contributing fixes to the agent, voice AI, and data tools I use - lately PostHog and LiveKit.
+Merged fixes into PostHog, LiveKit, LangChain, and Pipecat - lately moon and emdash.
